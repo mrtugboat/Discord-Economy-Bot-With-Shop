@@ -8,6 +8,6 @@ This was created in Python and uses .JSON to store data for your users. See some
 ![alt text]([http://url/to/img.png](https://i.imgur.com/5jW9P6Z.png))
 
 # Users can withdraw & deposit money
-![alt text]([http://url/to/img.png]([https://i.imgur.com/5jW9P6Z.png](https://i.imgur.com/MMDfPz3.png)))
+![alt text]([http://url/to/img.png]([https://i.imgur.com/MMDfPz3.png)))
 
 
